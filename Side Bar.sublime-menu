@@ -1,0 +1,5 @@
+[{
+    "caption": "Fold Parent Folder",
+    "command": "fold_parent_folder",
+    "args": {"paths": []}
+}]

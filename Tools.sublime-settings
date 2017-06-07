@@ -1,0 +1,14 @@
+{
+    "debug": false,
+
+    "scss-compile-out": "./",
+
+     // such as ".css"
+    "scss-compile-ext": ".css",
+
+    // nested，expanded，compact，compressed
+    "scss-compile-style": "nested",
+
+    // other config
+    "scss-compile-other": ["--sourcemap=none"],
+}
